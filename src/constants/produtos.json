@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "plant": "Orquidea",
+        "espec": "Phalaenopsis",
+        "fami": "Orchidaceae",
+        "orige": "Sudeste Asiático",
+        "ilus": "./lotus.webp"
+
+    },
+    {
+        "id": 2,
+        "rame": "Margarida",
+        "espec": "Bellis perennis",
+        "fami": "Asteraceae",
+        "orig": "Europa, Ásia Ocidental e Norte da África.",
+        "imag": "./Margarida.jpg"
+    },
+    {
+        "id": 3,
+        "rame": "Flor de lótus",
+        "espec": "Nelumbo nucifera",
+        "fami": "Nelumbonaceae",
+        "orig": "Sul e Sudeste da Ásia, estendendo-se até o norte da Austrália.",
+        "imag": "./lotus.webp"
+    },
+    {
+        "id": 4,
+        "rame": "Perfume 02",
+        "espec": "muito cheiroso",
+        "fami": 200.00,
+        "orig": "",
+        "imag": ""
+    },
+    {
+        "id": 5,
+        "rame": "Perfume 02",
+        "espec": "muito cheiroso",
+        "fami": 200.00,
+        "orig": "",
+        "imag": ""
+    },
+    {
+        "id": 6,
+        "rame": "Perfume 02",
+        "espec": "muito cheiroso",
+        "fami": 200.00,
+        "orig": "",
+        "imag": ""
+    },
+    {
+        "id": 7,
+        "rame": "Perfume 02",
+        "espec": "muito cheiroso",
+        "fami": 200.00,
+        "orig": "",
+        "imag": ""
+    },
+    {
+        "id": 8,
+        "rame": "Perfume 02",
+        "espec": "muito cheiroso",
+        "fami": 200.00,
+        "orig": "",
+        "imag": ""
+    }
+]
