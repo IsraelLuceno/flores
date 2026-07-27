@@ -12,6 +12,7 @@ function App() {
           return(
             <div key={item.id} className={e.card}>
               <Card
+                imagem={item.ilus}
                 plant={item.plant}
                 espec={item.espec}
                 fami={item.fami}
