@@ -16,6 +16,7 @@ import e from './card.module.css'
 export const Card = ({plant, espec, fami, orige}) => {
     return(
         <>
+            <img className={e.cardImage} src={imagem} alt={plant} />
             <div className={e.wrapText}>
                 <h2>{plant}</h2>
                 <p>Espécie: {espec}</p>
