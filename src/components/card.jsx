@@ -13,14 +13,14 @@
 
 import e from './card.module.css'
 
-export const Card = ({imagem, nome, descricao, valor}) => {
+export const Card = ({plant, espec, fami, orige}) => {
     return(
         <>
-            <img className={e.cardImage} src={imagem} alt={nome} />
             <div className={e.wrapText}>
-                <h2>{nome}</h2>
-                <p>{descricao}</p>
-                <h3>${valor.toFixed(2)}</h3>
+                <h2>{plant}</h2>
+                <p>Espécie: {espec}</p>
+                <p>Família: {fami}</p>
+                <h3>Origem: {orige}</h3>
             </div>
        </>
     )
