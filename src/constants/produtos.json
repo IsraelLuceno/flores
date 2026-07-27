@@ -5,7 +5,7 @@
         "espec": "Phalaenopsis",
         "fami": "Orchidaceae",
         "orige": "Sudeste Asiático",
-        "ilus": "./lotus.webp"
+        "ilus": "./orquidea.webp"
 
     },
     {
@@ -26,42 +26,42 @@
     },
     {
         "id": 4,
-        "rame": "Perfume 02",
-        "espec": "muito cheiroso",
-        "fami": 200.00,
-        "orig": "",
-        "imag": ""
+        "rame": "cineraria",
+        "espec": "Pericallis × hybrida",
+        "fami": "Asteraceae",
+        "orig": "Ilhas Canárias (Espanha)",
+        "imag": "cineraria.webp"
     },
     {
         "id": 5,
-        "rame": "Perfume 02",
-        "espec": "muito cheiroso",
-        "fami": 200.00,
-        "orig": "",
-        "imag": ""
+        "rame": "Rosa",
+        "espec": "Rosa × hybrida",
+        "fami": "Rosaceae",
+        "orig": "Ásia (principalmente China), Europa e América do Norte,",
+        "imag": "Rosa.jpg"
     },
     {
         "id": 6,
-        "rame": "Perfume 02",
-        "espec": "muito cheiroso",
-        "fami": 200.00,
-        "orig": "",
-        "imag": ""
+        "rame": "Jasmims",
+        "espec": "Jasminum grandiflorum",
+        "fami": "Oleaceae.",
+        "orig": "Ásia, principalmente Índia, Himalaia e regiões próximas",
+        "imag": "jasmin.jpg"
     },
     {
         "id": 7,
-        "rame": "Perfume 02",
-        "espec": "muito cheiroso",
-        "fami": 200.00,
-        "orig": "",
-        "imag": ""
+        "rame": "Acucena",
+        "espec": "Lilium candidumd",
+        "fami": "Liliaceae",
+        "orig": "Europa, Ásia e Oriente Médio (dependendo da espécie).",
+        "imag": "acurena.webp"
     },
     {
         "id": 8,
-        "rame": "Perfume 02",
-        "espec": "muito cheiroso",
-        "fami": 200.00,
-        "orig": "",
-        "imag": ""
+        "rame": "Callas",
+        "espec": "Zantedeschia aethiopica.",
+        "fami": "Araceae.",
+        "orig": "Regiões úmidas da África do Sul",
+        "imag": "calla.jpg"
     }
 ]
