@@ -5,20 +5,20 @@
         "espec": "Phalaenopsis",
         "fami": "Orchidaceae",
         "orige": "Sudeste Asiático",
-        "ilus": "./orquidea.webp"
+        "imag": "./orquidea.webp"
 
     },
     {
         "id": 2,
-        "rame": "Margarida",
+        "plant": "Margarida",
         "espec": "Bellis perennis",
         "fami": "Asteraceae",
         "orig": "Europa, Ásia Ocidental e Norte da África.",
-        "imag": "./Margarida.jpg"
+        "imag": "./margarida.jpg"
     },
     {
         "id": 3,
-        "rame": "Flor de lótus",
+        "plant": "Flor de lótus",
         "espec": "Nelumbo nucifera",
         "fami": "Nelumbonaceae",
         "orig": "Sul e Sudeste da Ásia, estendendo-se até o norte da Austrália.",
@@ -26,7 +26,7 @@
     },
     {
         "id": 4,
-        "rame": "cineraria",
+        "plant": "cineraria",
         "espec": "Pericallis × hybrida",
         "fami": "Asteraceae",
         "orig": "Ilhas Canárias (Espanha)",
@@ -34,7 +34,7 @@
     },
     {
         "id": 5,
-        "rame": "Rosa",
+        "plant": "Rosa",
         "espec": "Rosa × hybrida",
         "fami": "Rosaceae",
         "orig": "Ásia (principalmente China), Europa e América do Norte,",
@@ -42,15 +42,15 @@
     },
     {
         "id": 6,
-        "rame": "Jasmims",
+        "plant": "Jasmims",
         "espec": "Jasminum grandiflorum",
         "fami": "Oleaceae.",
         "orig": "Ásia, principalmente Índia, Himalaia e regiões próximas",
-        "imag": "jasmin.jpg"
+        "imag": "Jasmim.jpg"
     },
     {
         "id": 7,
-        "rame": "Acucena",
+        "plant": "Acucena",
         "espec": "Lilium candidumd",
         "fami": "Liliaceae",
         "orig": "Europa, Ásia e Oriente Médio (dependendo da espécie).",
@@ -58,7 +58,7 @@
     },
     {
         "id": 8,
-        "rame": "Callas",
+        "plant": "Callas",
         "espec": "Zantedeschia aethiopica.",
         "fami": "Araceae.",
         "orig": "Regiões úmidas da África do Sul",

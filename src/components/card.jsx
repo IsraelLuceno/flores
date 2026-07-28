@@ -13,7 +13,7 @@
 
 import e from './card.module.css'
 
-export const Card = ({plant, espec, fami, orige}) => {
+export const Card = ({plant, espec, fami, orige, imagem}) => {
     return(
         <>
             <img className={e.cardImage} src={imagem} alt={plant} />

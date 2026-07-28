@@ -12,8 +12,8 @@ function App() {
           return(
             <div key={item.id} className={e.card}>
               <Card
-                imagem={item.ilus}
-                plant={item.plant}
+                imagem={item.imag}
+                name={item.rame}
                 espec={item.espec}
                 fami={item.fami}
                 orige={item.orige}
